@@ -1,0 +1,1 @@
+I'm working with youtube video upload api, so i need to get a developer key for some configuration in my web application.
